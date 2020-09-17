@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+}
+
+h1 ,h4 {
+  color: black;
+}
+
+a {
+  color: inherit;
+}
+a:visited {
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;
+}
+#acController {
+  margin:auto;
+  margin-top: 2%;
+  text-align: center;
+  padding: 2%;
+  width: 40%;
+  height: 40%;
+}
+#stored {
+  margin: auto;
+  margin-top: 5%;
+  text-align: center;
+  width: 40%;
+  height: 40%;
+}
+
+#temperature ,#humidity {
+  width: 60%;
+  margin: auto;
+}
+
+button {
+  width: 60%;
+  color: white;
+}
